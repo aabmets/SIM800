@@ -1,0 +1,31 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SIM800	KEYWORD1
+SIM	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+write	KEYWORD2
+print	KEYWORD2
+available	KEYWORD2
+setTimeout	KEYWORD2
+resetTimeout	KEYWORD2
+getTimeout	KEYWORD2
+overrideTimeout	KEYWORD2
+detectEndStr	KEYWORD2
+setSlicePoint	KEYWORD2
+cmdBenchmark	KEYWORD2
+directSerialMonitor	KEYWORD2
+reply		KEYWORD2
+isError		KEYWORD2
+getBuffer	KEYWORD2
+clearBuffer	KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+P	LITERAL1
