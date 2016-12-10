@@ -1,2 +1,2 @@
 # SIM800
-Fully comprehensive SIM800 API library for simplified and in-depth chip access.
+Comprehensive SIM800 Series library for simplified and in-depth chip access.
