@@ -2,7 +2,7 @@
 
 unsigned long bauds = 19200;
 char code[] = "0000";
-char addr[] = "\"+37255582814\"";
+char addr[] = "\"+000000000\"";
 char msg[] = "Hello World!";
 
 void setup() {
