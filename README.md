@@ -1,6 +1,8 @@
 # Aspen SIM800
 
+-----------------------------------------------------------------------------------------------------
 !!! The library works, but it's not officially supported anymore due to lack of time and interest !!!
+-----------------------------------------------------------------------------------------------------
 
 A comprehensive SIM800 Series library for simplified and in-depth chip access.
 
