@@ -1,4 +1,9 @@
 /*
+Written by Mortuus Medicus
+
+This follows the newer manual that adds the featues below
+*/
+/*
 █████████████████████████████████████████████████████
 ████   ATcmd         Manpage        API Method   ████   Count: 7 commands
 █████████████████████████████████████████████████████
