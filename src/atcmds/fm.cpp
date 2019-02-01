@@ -1,3 +1,9 @@
+/*
+Written by Mortuus Medicus
+
+This follows the newer manual that adds the featues below
+*/
+
 #include <SIM800.h>
 
     /* AT+FMOPEN     6   */    void fmOpen                  (CmdType, char* = "");
